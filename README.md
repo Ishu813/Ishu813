@@ -2,10 +2,10 @@
 <p align="center">
   <img src="/github-header-banner.png" width="100%" />
 </p>
-
+<br/>
 <!-- Typing Title -->
 <p align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=500&size=28&duration=2600&pause=1200&color=00CFFF&center=true&vCenter=true&width=650&lines=Ishu+Agrawal+%7C+Full+Stack+Developer;MERN+%7C+Java+%7C+React+Native;Crafting+Cosmic+Level+Digital+Experiences+🌌" />
+  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=500&size=28&duration=2600&pause=1200&color=00CFFF&center=true&vCenter=true&width=750&lines=Ishu+Agrawal+%7C+Full+Stack+Developer;MERN+%7C+Java+%7C+React+Native;Crafting+Professional+Tech+Experiences+🌌" />
 </p>
 
 <!-- Cosmic Badges -->
@@ -21,8 +21,8 @@
 🟦 Full-Stack Developer blending smooth UI + powerful backend engineering  
 🎓 B.Tech Mechanical Engineering @ **IIT BHU (2027)**  
 🚀 Passionate about building real products that are clean, fast & scalable  
-🔭 Currently exploring **system design**, **authentication**, **real-time messaging**, and **mobile apps**  
-🌌 Lover of cosmic themes, futuristic UI, and design-driven development  
+🔭 Currently exploring **system design**, **authentication**, **real-time messaging**, **mobile apps** and **building logic**  
+🌌 Lover of themes, futuristic UI, and design-driven development  
 
 ---
 
@@ -59,16 +59,17 @@
 
 # 🌌 Featured Projects
 
-- 🌐 **WanderLust Web-App** — MERN booking + CRUD system  
+- 🌐 **WanderLust Web-App** — MERN booking + CRUD system
+- 💬 **TeamNest** - Chat Application for Remote Team Collaboration + WebSocket
 - 🍱 **Food-Recipe App** — API-based recipe explorer  
 - 📍 **Restaurant Search (React Native)** — fast mobile finder  
 - 📝 **To-Do List Web-App** — clean & minimal productivity tool  
 
-> *More cosmic full-stack builds loading… 🚀*
+> *More full-stack builds loading… 🚀*
 
 ---
 
-# ✨ GitHub Stats (Cosmic Blue Mode)
+# ✨ GitHub Stats
 
 <p align="center">
   <img src="https://github-readme-stats.vercel.app/api?username=Ishu813&show_icons=true&theme=blue_navy&hide_border=true" height="165px"/>
@@ -77,6 +78,14 @@
 
 <p align="center">
   <img src="https://github-readme-streak-stats.herokuapp.com?user=Ishu813&theme=blue-navy&hide_border=true" height="180px" />
+</p>
+
+---
+
+# 👑 Achievemements
+
+<p align="center">
+  <img src="/Hacktoberfest-badges.png" height="180px" />
 </p>
 
 ---
@@ -98,5 +107,5 @@
 ---
 
 <p align="center">
-  ⭐ *If you like my cosmic projects, drop a star — it keeps the galaxy spinning!*  
+  ⭐ *If you like my projects, drop a star — it boosts my coding strength!*  
 </p>
