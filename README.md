@@ -1,11 +1,11 @@
 <!-- Blue Cosmic Banner -->
 <p align="center">
-  <img src="https://i.imgur.com/DS2zQvv.png" width="100%" />
+  <img src="/github-header-banner.png" width="100%" />
 </p>
 
 <!-- Typing Title -->
 <p align="center">
-  <img src="/github-header-banner.png?font=Fira+Code&weight=500&size=28&duration=2600&pause=1200&color=00CFFF&center=true&vCenter=true&width=650&lines=Ishu+Agrawal+%7C+Full+Stack+Developer;MERN+%7C+Java+%7C+React+Native;Crafting+Cosmic+Level+Digital+Experiences+🌌" />
+  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=500&size=28&duration=2600&pause=1200&color=00CFFF&center=true&vCenter=true&width=650&lines=Ishu+Agrawal+%7C+Full+Stack+Developer;MERN+%7C+Java+%7C+React+Native;Crafting+Cosmic+Level+Digital+Experiences+🌌" />
 </p>
 
 <!-- Cosmic Badges -->
