@@ -1,10 +1,23 @@
+<!-- Hi -->
+<h1 align="center">
+  <img 
+    src="https://raw.githubusercontent.com/ABSphreak/ABSphreak/master/gifs/Hi.gif" 
+    width="60px"
+  />
+  <strong>
+    Hi there!.....Welcome to my GitHub Profile
+  </strong>
+</h1>
+</br>
+</br>
+
 <!-- Typing Title -->
 <p align="center">
   <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=500&size=28&duration=2600&pause=1200&color=00CFFF&center=true&vCenter=true&width=750&lines=Ishu+Agrawal+%7C+Full+Stack+Developer;MERN+%7C+Java+%7C+React+Native;Crafting+Professional+Tech+Experiences+🌌" />
 </p>
 
 <!-- Cosmic Badges -->
-<p align="center>
+<p align="center">
   <img src="https://img.shields.io/badge/Full%20Stack%20Developer-06283D?style=for-the-badge&logo=react&logoColor=00EFFF" />
   <img src="https://img.shields.io/badge/IIT%20BHU%20'27-1363DF?style=for-the-badge" />
   <img src="https://img.shields.io/badge/Coding%20Across%20The%20Cosmos-47B5FF?style=for-the-badge" />
@@ -13,17 +26,15 @@
 ---
 
 # 🌠 About Me  
-🟦 Full-Stack Developer blending smooth UI + powerful backend engineering  
+🟦 Full-Stack Developer blending smooth UI with powerful backend engineering  
 🎓 B.Tech Mechanical Engineering @ **IIT BHU (2027)**  
 🚀 Passionate about building real products that are clean, fast & scalable  
-🔭 Currently exploring **system design**, **authentication**, **real-time messaging**, **mobile apps** and **building logic**  
-🌌 Lover of themes, futuristic UI, and design-driven development  
+🔭 Exploring **system design**, **authentication**, **real-time messaging**, **mobile apps**, and **logic building**  
+🌌 Lover of futuristic themes, clean UI, and design-driven development  
 
 ---
 
 # 🔷 Tech Stack
-
-<!-- Cosmic Divider -->
 
 <p>
   <img src="https://skillicons.dev/icons?i=java,js,python,html,css" height="60"/>
@@ -49,8 +60,8 @@
 
 # 🌌 Featured Projects
 
-- 🌐 **WanderLust Web-App** — MERN booking + CRUD system
-- 💬 **TeamNest** - Chat Application for Remote Team Collaboration + WebSocket
+- 🌐 **WanderLust Web-App** — MERN booking + CRUD system  
+- 💬 **TeamNest** — Chat app for remote team collaboration (WebSocket)  
 - 🍱 **Food-Recipe App** — API-based recipe explorer  
 - 📍 **Restaurant Search (React Native)** — fast mobile finder  
 - 📝 **To-Do List Web-App** — clean & minimal productivity tool  
@@ -72,7 +83,7 @@
 
 ---
 
-# 👑 Achievemements
+# 👑 Achievements
 
 <p align="center">
   <img src="/Hacktoberfest-badges.png" height="180px" />
@@ -97,5 +108,5 @@
 ---
 
 <p align="center">
-  ⭐ *If you like my projects, drop a star — it boosts my coding strength!*  
+  ⭐ <em>If you like my projects, drop a star — it boosts my coding strength!</em>
 </p>
