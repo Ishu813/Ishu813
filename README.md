@@ -4,7 +4,7 @@
 </p>
 
 <!-- Cosmic Badges -->
-<p align="center">
+<p align="center>
   <img src="https://img.shields.io/badge/Full%20Stack%20Developer-06283D?style=for-the-badge&logo=react&logoColor=00EFFF" />
   <img src="https://img.shields.io/badge/IIT%20BHU%20'27-1363DF?style=for-the-badge" />
   <img src="https://img.shields.io/badge/Coding%20Across%20The%20Cosmos-47B5FF?style=for-the-badge" />
@@ -25,28 +25,23 @@
 
 <!-- Cosmic Divider -->
 
-### **💻 Languages**
-<p align="center">
+<p>
   <img src="https://skillicons.dev/icons?i=java,js,python,html,css" height="60"/>
 </p>
 
-### **🎨 Frontend**
-<p align="center">
+<p>
   <img src="https://skillicons.dev/icons?i=react,reactnative,tailwind" height="60"/>
 </p>
 
-### **⚙️ Backend**
-<p align="center">
+<p>
   <img src="https://skillicons.dev/icons?i=nodejs,express" height="60"/>
 </p>
 
-### **🧊 Databases**
-<p align="center">
+<p>
   <img src="https://skillicons.dev/icons?i=mongodb,firebase" height="60"/>
 </p>
 
-### **🛠 Tools**
-<p align="center">
+<p>
   <img src="https://skillicons.dev/icons?i=git,github,vscode,postman" height="60"/>
 </p>
 
